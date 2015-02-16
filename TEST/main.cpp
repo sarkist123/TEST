@@ -16,4 +16,6 @@ int main(int argc, const char * argv[]) {
     //3rd comment
     //another comment
     //cmon baby 1 more time
+    
+    //after the deletion
 }
